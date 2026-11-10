@@ -20,3 +20,6 @@ mlflow_ui.log
 # Evidently
 drift_report.html
 /Dataset_BUSI_with_GT
+
+# Env
+*.env
