@@ -22,4 +22,8 @@ drift_report.html
 /Dataset_BUSI_with_GT
 
 # Env
+<<<<<<< HEAD
 *.env
+=======
+*.env
+>>>>>>> 6bbaea0d1845b308e98aacc8cb30a695aa2674df

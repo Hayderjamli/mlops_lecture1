@@ -20,6 +20,10 @@ dependencies = [
     "xgboost",
     "dagshub",
     "bentoml",
+    "litellm>=1.108.3",
+    "langfuse>=5.2.0",
+    "dotenv>=0.9.9",
+    "jupyter>=1.1.1",
 ]
 
 [dependency-groups]
